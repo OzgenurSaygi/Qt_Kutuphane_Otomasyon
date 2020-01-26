@@ -1,0 +1,8 @@
+7897 1984 A1 Can_Yayýnlarý George_Orwell 4 Dünya_Klasikleri_Kitaplarý 1.01.2015 350 152
+1478 Kürk_Mantolu_Modonna F2 Yapý_Kredi_Yayýnlarý Sabahattin_Ali 4 Roman_Kitaplarý 1.02.1998 164 113
+1478 Keþanlý_Ali_Destaný R1 Yapý_Kredi_Yayýnlarý Haldun_Taner 3 Roman_Kitaplarý 1.01.1964 16 1522
+1467 Hayvan_Çiftliði R3 Can_Yayýnlarý Georg_Orwell 2 Roman_Kitaplarý 17.08.1945 112 9874
+5647  Dönüþüm  H1  Can_Yayýnlarý  Franz_Kalfa 4 Hikaye(Öykü)_Kitaplarý 1.09.2016 240 1297
+6457 Simyacý R6 Can_Yayýnlarý Pauol_Coelho 1 Roman_Kitaplarý 1.01.1988 184 6439
+1243  Sinekli_Bakkal  R7  Can_Yayýnlarý  Halide_Edip_Adývar 3 Roman_Kitaplarý 1.01.1935 476 1663
+7561 finale R8 Can_Yayýnlarý Halit_Ziya_Uþaklýgil 5 Roman_Kitaplarý 3.03.2002 454 2931
